@@ -1,29 +1,29 @@
 # PBW-P2-Rifki
 # Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
 
-Aplikasi ini dibuat untuk memenuhi tugas praktikum dasar PHP. Aplikasi ini merupakan form pendaftaran sederhana untuk sebuah event fiktif.
+Instalasi, Konfigurasi, dan Halaman Pertama Kita
+
 
 ## Deskripsi & Fitur
 Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
-- **Variabel, Global Variabel, dan Konstanta**: Untuk menyimpan data dan konfigurasi.
-- **Fungsi**: Digunakan untuk modularisasi kode, khususnya untuk validasi.
-- **Penanganan Form (POST)**: Menerima dan memproses data yang dikirim dari form HTML.
-- **Validasi dengan Regex**: Memastikan format input email dan tanggal lahir (DD-MM-YYYY) sudah benar.
-- **Operasi File**: Menyimpan setiap pendaftar yang valid ke dalam file `pendaftar.txt`.
-- **Menampilkan Data**: Membaca data dari `pendaftar.txt` dan menampilkannya dalam bentuk tabel.
+- Membuat about.blade.php
+- membuat kontak.blade.php
+## Tampilan Web
 
-## Tampilan Aplikasi
-
-**Tampilan Awal Form**
-*(Letakkan screenshot tampilan form kosong di sini)*
-![Tampilan Form]![WhatsApp Image 2025-09-26 at 16 36 56](https://github.com/user-attachments/assets/918d6480-1bce-4735-9789-5547f3728191)
+**Tampilan welcome**
+*(Welcome)*
+<img width="1919" height="976" alt="image" src="https://github.com/user-attachments/assets/3491d1f1-b4fe-4b2d-88a5-e86b7c16cf26" />
 
 
-**Tampilan Setelah Pendaftaran Berhasil**
-*(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
-![Tampilan Sukses]![WhatsApp Image 2025-09-26 at 16 36 56 (1)](https://github.com/user-attachments/assets/cfb82022-2288-450b-a3ea-c3ad212f8a24)
+
+**Tampilan about**
+*(About)*
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/70971e10-81ab-4b74-bcaa-d21fa1c2f451" />
 
 
-**Contoh Pesan Error Validasi**
-*(Letakkan screenshot tampilan saat ada error validasi di sini)*
-![Tampilan Error]![WhatsApp Image 2025-09-26 at 16 36 57](https://github.com/user-attachments/assets/e47ecade-80ae-4cd4-b4f4-8b8ce33bfe8d)
+**Contoh Kontak**
+*(Kontak)*
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9ba9587a-5e48-4538-a117-2e5252a38bc8" />
+
+
+
